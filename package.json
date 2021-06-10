@@ -1,6 +1,6 @@
 {
   "name": "create-react-rollup",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "React template app build using Rollup",
   "main": "index.js",
   "bin": {
