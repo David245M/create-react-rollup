@@ -56,6 +56,7 @@ export default defineConfig({
       contentBase: ['', "public"],
       host: 'localhost',
       port: 3000,
+      historyApiFallback: false,
     }),
     !isProduction && livereload({ watch: devDir }),
 
